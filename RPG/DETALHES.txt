@@ -1,9 +1,0 @@
-Código em C#
-
-Preciso de uma classe "Jogador" que deve conter o nome dos jogadores, podendo incluir, alterar e excluir esses jogadores. Cada jogador também pode ter vários personagens.
-
-Preciso de uma classe "Personagem" que deve criar, alterar e excluir personagens, e ler os valores que serão passados por um arquivo JSON contendo as seguintes informações de cada personagem: um nome que também servirá como identificador, uma raça(Anão, Bestial, Draconato, Elfo, Humano, Kemono, Meio-Elfo, Meio-Orc e Orc), uma classe(Assassino, Bárbaro, Bardo, Caçador, Clérigo, Druida, Gladiador, Guardião, Guerreiro, Ladrão Mago e Necromante) e atributos(agilidade, carisma, constituição, determinação, destreza, força, sabedoria e inteligência) com valores de 0 a 4. A classe também deverá conter os atributos(vida, ataque, defesa, resistência e mana) que serão calculados com base nos atributos passados pelo json.
-
-Preciso de uma classe "Visual" que fique responsável pelos métodos responsáveis por mostrar a situação atual do personagem.
-
-e de uma classe "Program" que execute a aplicação.
